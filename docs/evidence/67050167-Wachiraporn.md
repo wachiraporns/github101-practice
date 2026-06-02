@@ -7,7 +7,7 @@
 Project Manager / Scrum Lead
 
 ## Evidence link
-https://github.com/wachiraporns/github101-practice/edit/main/docs/evidence/
+https://github.com/wachiraporns/github101-practice/edit/main/docs/evidence/67050167-Wachiraporn.md
 
 ## Reflection
 วันนี้ฉันเรียนรู้อะไรจากการใช้ GitHub: การใช้ GitHub ร่วมกับคนอื่นใน repo 
